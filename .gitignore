@@ -1,0 +1,23 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.vscode/ 
+# Operating System
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# IDE specific (if applicable)
+.idea/ # PyCharm
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit specific (optional, if you generate local cache files)
+.streamlit/
