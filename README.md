@@ -17,7 +17,13 @@ RecruitMate helps recruiters quickly screen resumes. Upload PDF CVs, set job req
 * Simple Streamlit web interface.
 
 ---
+## 📄 Project Report
 
+For a comprehensive understanding of the project's requirements, design, implementation details, and theoretical background, please refer to the full project report:
+
+*   **[RecruitMate Project Report (PDF)](docs\Rapport_RecruitMate_MARIAM_MOUH.pdf)** 
+
+---
 ## ⚙️ Installation
 
 ```bash
@@ -62,6 +68,8 @@ RecruitMate/
 │   └── config.toml
 ├── .vscode/            # VS Code settings
 ├── venv/               # Virtual environment (not shared in repo)
+├── .docs/         # Project documentation 
+│   └── Rapport_RecruitMate_MARIAM_MOUH.pdf
 ├── .gitignore
 ├── app.py              # Main Streamlit app
 ├── example_resume.pdf  # Example CV for testing
